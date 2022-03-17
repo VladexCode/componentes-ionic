@@ -1,0 +1,122 @@
+[
+    {
+      "icon": "american-football-outline",
+      "name": "Action Sheet",
+      "redirectTo": "/action-sheet"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "Alert",
+      "redirectTo": "/alert"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "avatar",
+      "redirectTo": "/avatar"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "button",
+      "redirectTo": "/button"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "card",
+      "redirectTo": "/card"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "check",
+      "redirectTo": "/check"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "data-time",
+      "redirectTo": "/date-time"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "fab",
+      "redirectTo": "/fab"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "grid",
+      "redirectTo": "/grid"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "intinite",
+      "redirectTo": "/infinite"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "input",
+      "redirectTo": "/input"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "list",
+      "redirectTo": "/list"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "list-reorder",
+      "redirectTo": "/list-reorder"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "loading",
+      "redirectTo": "/loading"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "modal",
+      "redirectTo": "/modal"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "modal-info",
+      "redirectTo": "/modal-info"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "popover",
+      "redirectTo": "/popover"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "progress",
+      "redirectTo": "/progress"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "refresher",
+      "redirectTo": "/refresher"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "search",
+      "redirectTo": "/search"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "segment",
+      "redirectTo": "/segment"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "slides",
+      "redirectTo": "/slides"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "tabs",
+      "redirectTo": "/tabs"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "toast",
+      "redirectTo": "/toast"
+    }
+  ]
